@@ -1,4 +1,4 @@
-# **Simple Python Todo List App
+# Simple Python Todo List App
 
 This app:
 1. Creates tasks
